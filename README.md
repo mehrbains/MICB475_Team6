@@ -9,6 +9,7 @@ Recap of what has been done:
 
 Meeting Agenda:
 - Discuss with Ritu what trimming parameters we should choose based on our demultiplexing results since they are varying lengths
+> <img src="/QIIME2/visuals/demultiplexed_seqs_length_summary.png" height="200">
 - Show her the ranges of the biochemical metrics that we plan to use as cateogries
 - Create a clear and concise research question based on our dataset and specified variables
 - Discuss the Team Proposal (ask any questions to clarify about the assignment)
