@@ -9,20 +9,20 @@ Recap of what has been done since last meeting:
 - Ranges of the biochemical metrics to create categories to be added in metadata:
   
 Blood glucose
-High: 100 - 125 mg/dL (5.6 - 6.9 mmol/L), >125 mg/dL or 7 mmol/L is considered diabetic
-Normal: 70 - 100 mg/dL (3.9 - 5.6 mmol/L)
-Low: <70 mg/dL (<3.9 mmol/L)
+- High: 100 - 125 mg/dL (5.6 - 6.9 mmol/L), >125 mg/dL or 7 mmol/L is considered diabetic
+- Normal: 70 - 100 mg/dL (3.9 - 5.6 mmol/L)
+- Low: <70 mg/dL (<3.9 mmol/L)
 
 Triglycerides
-Normal: <150 mg/dL (1.7 mmol/L)
-Borderline high: 150 - 199 mg/dL (1.8 - 2.2 mmol/L)
-High: 200 - 499 mg/dL (2.3 - 5.6 mmol/L)
-Very high: ≥500 mg/dL (≥5.7 mmol/L)
+- Normal: <150 mg/dL (1.7 mmol/L)
+- Borderline high: 150 - 199 mg/dL (1.8 - 2.2 mmol/L)
+- High: 200 - 499 mg/dL (2.3 - 5.6 mmol/L)
+- Very high: ≥500 mg/dL (≥5.7 mmol/L)
 
 Total Cholesterol **
-Normal: <200 mg/dL
-Borderline high: 200-239 mg/dL
-High: >240 mg/dL
+- Normal: <200 mg/dL
+- Borderline high: 200-239 mg/dL
+- High: >240 mg/dL
 
 ** Ranges may vary by age, ethnicity, and sex assigned at birth
 
