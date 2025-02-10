@@ -1,4 +1,17 @@
 # MICB475: Team 6
+## Team Meeting 2
+__February 10, 2025__
+
+Recap of what has been done:
+- decided on Gastric Cancer dataset
+- decided to focus on biochemical metrics ex. blood glucose, triglycerides, total cholesterol
+- finished demultiplexing the Gastric Cancer dataset
+
+Meeting Agenda:
+- Discuss with Ritu what trimming parameters we should choose based on our demultiplexing results since they are varying lengths
+- Show her the ranges of the biochemical metrics that we plan to use as cateogries
+- Create a clear and concise research question based on our dataset and specified variables
+- Discuss the Team Proposal (ask any questions to clarify about the assignment)
 
 ## Team Meeting 1
 __February 4, 2025__
