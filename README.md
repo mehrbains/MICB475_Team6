@@ -1,6 +1,6 @@
 # MICB475: Team 6
 ## Team Meeting 2
-__February 10, 2025__
+__February 11, 2025__
 
 Recap of what has been done since last meeting:
 - decided on Gastric Cancer dataset
