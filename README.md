@@ -6,6 +6,7 @@ Recap of what has been done since last meeting:
 - decided on Gastric Cancer dataset
 - decided to focus on biochemical metrics ex. blood glucose, triglycerides, total cholesterol
 - finished demultiplexing the Gastric Cancer dataset
+- Started writing outline of proposal: https://docs.google.com/document/d/1ZUtXC7PMoh7TS0NtVB6DRIZVfG7Pl0IJgav_4juS62I/edit?tab=t.0
 - Ranges of the biochemical metrics to create categories to be added in metadata:
   
 Blood glucose
