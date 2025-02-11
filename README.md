@@ -7,7 +7,7 @@ Recap of what has been done since last meeting:
 - decided to focus on biochemical metrics ex. blood glucose, triglycerides, total cholesterol
 - finished demultiplexing the Gastric Cancer dataset
 - Started writing outline of proposal: https://docs.google.com/document/d/1ZUtXC7PMoh7TS0NtVB6DRIZVfG7Pl0IJgav_4juS62I/edit?tab=t.0
-- Ranges of the biochemical metrics to create categories to be added in metadata:
+- Ranges of the biochemical metrics to create categories to be added in metadata (be sure to add citations in the proposal):
   
 Blood glucose
 - High: 100 - 125 mg/dL (5.6 - 6.9 mmol/L), >125 mg/dL or 7 mmol/L is considered diabetic
@@ -33,6 +33,56 @@ Meeting Agenda:
 - Show her the ranges of the biochemical metrics that we plan to use as cateogries
 - Create a clear and concise research question based on our dataset and specified variables
 - Discuss the Team Proposal (ask any questions to clarify about the assignment)
+
+Trimming length: 250-300 nts
+- Try with the shortest read length, see if there are any issues (e.g. losing many sequences)
+
+Depression dataset (NEW):
+- Biochemical metrics (calcium, chloride, potassium, protein total serum, phosphorus, creatinine, mcv)
+- Modeling to see which biochemical metrics are statistic in effecting microbiome diversity OR could just choose one/two metrics to work with
+- Varying metrics (general overview with eyes, no literature research yet): LDL/HDL, glucose, neutrophils, cholesterol, LDL/HDL cholesterol
+- Beck depression inventory (BDI): depression severity questionaire
+- Divide samples based on BDI scores
+  - see how the microbiome varies based on each metric/BDI combinations
+  - functional analysis (pathways changed as a result of x condition, which microbes were likely responsible): pairwise comparisons with PI-CRUST
+ 
+Reading break:
+- Possible meeting
+
+Proposal:
+- Title:
+  - Be specific
+  - "Exploring", "Understanding", etc.
+- Introduction/Background:
+  - mention the original paper
+  - introduce the dataset, we will be using x dataset to answer y question
+  - Be explicit: how are we splitting up the dataset, how we plan to choose the variables to explore
+    - e.g. biochemical metrics - low, normal, high
+    - cite sources
+- Hypothesis:
+  - Back it up with evidence
+- Experimental aims:
+  - aim 1: taxonomic analysis
+    - find out which ones are abundant and what is the count (deseq)
+    - e.g. previous papers have found certain species to be abundant, so we expect these to be abundant
+    - sub-bullet points
+      - e.g. how cholesterol levels may impact depression (based on literature)
+  - aim 2: functional analysis
+    - PI-CRUST
+- Dataset background:
+    - age groups of patients
+- Rarefaction curve
+- References
+  - QIIME
+  - alpha/beta diversity metrics (Dr. Sun cited)
+  - be specific as to what test (this may go under another section idk)
+- Tone:
+  - Formal
+- General tips:
+  - leave some time at the end to review the entire proposal to ensure consistency in vocab, tone, etc.
+ 
+General:
+- Maintain a record of who is using x file and when
 
 ## Team Meeting 1
 __February 4, 2025__
