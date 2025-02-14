@@ -22,6 +22,7 @@ qiime demux summarize \
 
 # transferred gastric_cancer_demux_seqs.qzv onto local computer and visualized on view.QIIME2.org
 
+# Denoise and cluster with DADA2 -> run overnight with a detached screen called "denoising"
 # Determine ASVs with DADA2 --> trim length = 223
 qiime dada2 denoise-single \
   --i-demultiplexed-seqs gastric_cancer_demux_seqs.qza \
