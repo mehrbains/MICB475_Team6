@@ -28,16 +28,16 @@ qiime dada2 denoise-single \
   --i-demultiplexed-seqs gastric_cancer_demux_seqs.qza \
   --p-trim-left 0 \
   --p-trunc-len 223 \
-  --o-representative-sequences rep-seqs.qza \
-  --o-table table.qza \
-  --o-denoising-stats stats.qza
+  --o-representative-sequences rep-seqs-223.qza \
+  --o-table table-223.qza \
+  --o-denoising-stats stats-223.qza
 
 # Visualize ASVs stats --> trim length = 223
 qiime feature-table summarize \
-  --i-table table.qza \
-  --o-visualization table.qzv \
+  --i-table table-223.qza \
+  --o-visualization table-223.qzv \
   --m-sample-metadata-file /mnt/datasets/project_2/gastric_cancer/gastric_cancer_metadata.tsv
   
 qiime feature-table tabulate-seqs \
-  --i-data rep-seqs.qza \
-  --o-visualization rep-seqs.qzv
+  --i-data rep-seqs-223.qza \
+  --o-visualization rep-seqs-223.qzv
