@@ -1,4 +1,14 @@
 # MICB475: Team 6
+
+## Team Meeting 3
+__February 17, 2025__
+
+RECAP of what has been done since last meeting:
+
+AGENDA:
+
+NOTES DURING MEETING:
+
 ## Team Meeting 2
 __February 11, 2025__
 
