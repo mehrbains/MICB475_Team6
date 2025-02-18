@@ -13,6 +13,7 @@ AGENDA:
   - What is the difference between research objectives and experimental aims?
   - Is it better to split this research aim "Assess individual and combined contributions of blood glucose, cholesterol, and triglycerides on microbial diversity in healthy and in patients with gastric cancer (at different stages)" into two aims?
   - Is there a diversity metric that is best suited and required to answer our research question?
+  - One of the example team proposals mentioned a "maximum read length chosen" but it was a different number than what they truncated all their reads to be. What exactly is meant by "maximum read length chosen"?
 
 NOTES DURING MEETING:
 
