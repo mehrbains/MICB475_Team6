@@ -9,7 +9,7 @@ RECAP of what has been done since last meeting:
 - started working on the team proposal
 
 AGENDA:
-- 
+
 
 NOTES DURING MEETING:
 
