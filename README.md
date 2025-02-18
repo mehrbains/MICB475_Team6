@@ -4,8 +4,12 @@
 __February 17, 2025__
 
 RECAP of what has been done since last meeting:
+- Finished denoising the gastric cancer data set
+- decided on research question: "How do variations in blood glucose, cholesterol, and triglycerides influence microbiome composition at different stages of cancer?"
+- started working on the team proposal
 
 AGENDA:
+- 
 
 NOTES DURING MEETING:
 
