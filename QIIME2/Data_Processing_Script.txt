@@ -61,7 +61,7 @@ qiime feature-table summarize \
  # Train classifier with the new ref-seq file
 qiime feature-classifier fit-classifier-naive-bayes \
   --i-reference-reads ref-seqs-trimmed.qza \
-  --i-reference-taxonomy mnt/datasets/silva_ref_files/silva-138-99-tax.qza \
+  --i-reference-taxonomy /mnt/datasets/silva_ref_files/silva-138-99-tax.qza \
   --o-classifier classifier.qza
 
 # Use the new trained classifier to assign taxonomy to the reads
