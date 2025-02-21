@@ -41,3 +41,9 @@ qiime feature-table summarize \
 qiime feature-table tabulate-seqs \
   --i-data rep-seqs-223.qza \
   --o-visualization rep-seqs-223.qzv
+
+# Visualize feature-table with new gastric cancer metadata file that includes Age_category
+qiime feature-table summarize \
+  --i-table table-223.qza \
+  --o-visualization table-223.qzv \
+  --m-sample-metadata-file /data/project_2/updated_v2_gastric_cancer_metadata.tsv
