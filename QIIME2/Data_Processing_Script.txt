@@ -47,3 +47,39 @@ qiime feature-table summarize \
   --i-table table-223.qza \
   --o-visualization table-223.qzv \
   --m-sample-metadata-file /data/project_2/updated_v2_gastric_cancer_metadata.tsv
+
+## RETRAINING CLASSIFIER
+
+ # Extract amplicon of interest from the reference database
+ qiime feature-classifier extract-reads \
+  --i-sequences /mnt/datasets/silva_ref_files/silva-138-99-seqs.qza \
+  --p-f-primer GTGCCAGCMGCCGCGGTAA \
+  --p-r-primer GGACTACHVGGGTWTCTAAT \
+  --p-trunc-len 223 \
+  --o-reads ref-seqs-trimmed.qza
+
+ # Train classifier with the new ref-seq file
+qiime feature-classifier fit-classifier-naive-bayes \
+  --i-reference-reads ref-seqs-trimmed.qza \
+  --i-reference-taxonomy mnt/datasets/silva_ref_files/silva-138-99-tax.qza \
+  --o-classifier classifier.qza
+
+# Use the new trained classifier to assign taxonomy to the reads
+qiime feature-classifier classify-sklearn \
+  --i-classifier classifier.qza \
+  --i-reads rep-seqs-223.qza \
+  --o-classification taxonomy.qza
+
+## Taxonomic analysis
+
+# View taxonomy
+qiime metadata tabulate \
+  --m-input-file taxonomy.qza \
+  --o-visualization taxonomy.qzv
+
+#Taxonomy barplots
+qiime taxa barplot \
+  --i-table table.qza \
+  --i-taxonomy taxonomy.qza \
+  --m-metadata-file /data/project_2/updated_v2_gastric_cancer_metadata.tsv \
+  --o-visualization taxa-bar-plots.qzv
