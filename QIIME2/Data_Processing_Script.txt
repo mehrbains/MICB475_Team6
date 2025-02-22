@@ -79,7 +79,7 @@ qiime metadata tabulate \
 
 #Taxonomy barplots
 qiime taxa barplot \
-  --i-table table.qza \
+  --i-table table-223.qza \
   --i-taxonomy taxonomy.qza \
   --m-metadata-file /data/project_2/updated_v2_gastric_cancer_metadata.tsv \
   --o-visualization taxa-bar-plots.qzv
