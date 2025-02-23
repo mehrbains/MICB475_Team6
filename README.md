@@ -1,5 +1,22 @@
 # MICB475: Team 6
 
+## Team Meeting 4
+__February 25, 2025__
+
+RECAP:
+- Finished the proposal
+  - Processed data
+    - retrained the classifier
+    - created taxa barplots
+    - filtered out mitochondria and chloroplast
+    - generated alpha rarefaction curve
+  - Wrote all required information for the proposal
+
+AGENDA:
+- show Ritu the results of the alpha rarefaction curve and the proposed max sampling depth (how many reads and samples would be kept)
+
+Notes during meeting:
+
 ## Team Meeting 3
 __February 17, 2025__
 
