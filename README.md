@@ -6,6 +6,7 @@ __February 25, 2025__
 RECAP:
 - Finished the proposal
   - Processed data
+    - categorized age metadata into 3 cohorts
     - retrained the classifier
     - created taxa barplots
     - filtered out mitochondria and chloroplast
