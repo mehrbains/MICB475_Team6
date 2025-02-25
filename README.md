@@ -16,8 +16,17 @@ RECAP:
 AGENDA:
 - show Ritu the results of the alpha rarefaction curve and the proposed max sampling depth (how many reads and samples would be kept)
 - Come up with a gameplan of how to distribute the work among the group
+- - Research Q: How does the composition and function of the gastric mucosal microbiome vary with age across different stages of gastric cancer?
+- Experimental aims:
+  - 1) Analyze the relationship between age and alpha diversity of the gastric mucosal microbiome for different stages of gastric cancer
+    2) Identify if age has a significant effect on the beta diversity of the gastric mucosal microbiome at different stages of gastric cancer
+    3) Identify microbial taxa that are strongly associated with distinct stages of gastric cancer across age cohorts (indicator species analysis)
+    4) Investigate the impact of age on gastric mucosal metabolic function within each stage of gastric cancer
 
 Notes during meeting:
+
+
+
 
 ## Team Meeting 3
 __February 17, 2025__
