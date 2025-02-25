@@ -14,9 +14,9 @@ RECAP:
   - Wrote all required information for the proposal
 
 AGENDA:
-- show Ritu the results of the alpha rarefaction curve and the proposed max sampling depth (how many reads and samples would be kept)
+- Show Ritu the results of the alpha rarefaction curve and the proposed max sampling depth (how many reads and samples would be kept)
 - Come up with a gameplan of how to distribute the work among the group
-- - Research Q: How does the composition and function of the gastric mucosal microbiome vary with age across different stages of gastric cancer?
+- Research Q: How does the composition and function of the gastric mucosal microbiome vary with age across different stages of gastric cancer?
 - Experimental aims:
   - 1) Analyze the relationship between age and alpha diversity of the gastric mucosal microbiome for different stages of gastric cancer
     2) Identify if age has a significant effect on the beta diversity of the gastric mucosal microbiome at different stages of gastric cancer
@@ -25,7 +25,25 @@ AGENDA:
 
 Notes during meeting:
 
-
+- Alpha rarefaction curve: sampling depth of 12,000 makes sense to preserve a good number of samples
+- Aim 1: Linear mixed effects regression
+  - Example: Plot different values of metric, to see how alpha diversity changes across different stages of cancer
+  - This will be across the three age categories, as we've categorized them
+- Aim 2: Looking at beta diversity for each stage of gastric cancer including healthy controls (5, we can do 1 each), across different age groups
+- Timeline:
+  - Handing over project details to another team after about 4 weeks
+  - Functional analysis will be pairwise
+  - 2 people could start working on beta-diversity, other people can start doing indicator species analysis; work in parallel so we'll get plots faster
+    - We can start working on aims 2 and 3 right now
+- Filtering data for PICRUSt:
+  - Removing non-bacterial samples and reads with <5 counts will change alpha rarefaction curve
+  - Unsure if this method needs to be used only for the PICRUSt analysis or for other aims too; will follow up with Ritu afterwards [we'll check this before starting]
+- Email works better for contacting Ritu rather than contacting through Canvas
+- We might get a chance to work on feedback for proposal
+- Aim 2: Mehr, Lily
+- Aim 3: Shreya, Tricia
+- Aim 4: Manveer
+  
 
 
 ## Team Meeting 3
