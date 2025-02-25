@@ -15,6 +15,7 @@ RECAP:
 
 AGENDA:
 - show Ritu the results of the alpha rarefaction curve and the proposed max sampling depth (how many reads and samples would be kept)
+- Come up with a gameplan of how to distribute the work among the group
 
 Notes during meeting:
 
