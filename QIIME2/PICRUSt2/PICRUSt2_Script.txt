@@ -1,0 +1,5 @@
+# Filter ASVs < 5. Generate a new feature-frequency-filtered-table file.
+qiime feature-table filter-features \
+  --i-table table-no-mitochondria-no-chloroplast.qza \
+  --p-min-frequency 5 \
+  --o-filtered-table feature-frequency-filtered-table.qza
