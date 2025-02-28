@@ -3,3 +3,9 @@ qiime feature-table filter-features \
   --i-table table-no-mitochondria-no-chloroplast.qza \
   --p-min-frequency 5 \
   --o-filtered-table feature-frequency-filtered-table.qza
+
+# Convert the feature-frequency-filtered.qza file into a qzv file for visualization
+qiime feature-table summarize \
+  --i-table feature-frequency-filtered-table.qza \
+  --o-visualization feature-frequency-filtered-table.qzv \
+  --m-sample-metadata-file /data/project_2/updated_v2_gastric_cancer_metadata.tsv
