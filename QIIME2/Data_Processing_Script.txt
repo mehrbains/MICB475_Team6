@@ -136,3 +136,11 @@ qiime diversity alpha-rarefaction \
   --p-max-depth 50000 \
   --m-metadata-file /data/project_2/updated_v2_gastric_cancer_metadata.tsv \
   --o-visualization alpha-rarefaction-filtered.qzv
+
+# Calculate alpha- and beta-diversity metrics with chosen sampling depth of 12, 000
+qiime diversity core-metrics-phylogenetic \
+  --i-phylogeny rooted-tree.qza \
+  --i-table table-no-mitochondria-no-chloroplast.qza \
+  --p-sampling-depth 12000 \
+  --m-metadata-file /data/project_2/updated_v2_gastric_cancer_metadata.tsv \
+  --output-dir core-metrics-results-12000
