@@ -128,3 +128,11 @@ qiime diversity core-metrics-phylogenetic \
   --p-sampling-depth 4151 \
   --m-metadata-file /data/project_2/updated_v2_gastric_cancer_metadata.tsv \
   --output-dir core-metrics-results
+
+# Create alpha rarefaction curve using feature-frequency-filtered-table.qza at max depth 50, 000
+qiime diversity alpha-rarefaction \
+  --i-table feature-frequency-filtered-table.qza \
+  --i-phylogeny rooted-tree.qza \
+  --p-max-depth 50000 \
+  --m-metadata-file /data/project_2/updated_v2_gastric_cancer_metadata.tsv \
+  --o-visualization alpha-rarefaction-filtered.qzv
