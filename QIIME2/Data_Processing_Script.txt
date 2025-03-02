@@ -155,3 +155,18 @@ qiime diversity alpha-group-significance \
   --i-alpha-diversity core-metrics-results-12000/evenness_vector.qza \
   --m-metadata-file /data/project_2/updated_v2_gastric_cancer_metadata.tsv \
   --o-visualization core-metrics-results-12000/evenness-group-significance.qzv
+
+# transfer files needed to make phyloseq object onto local computer (working directory is newly made directory called "gc_export"
+
+qiime tools export \
+--input-path ../project_2/table-223.qza \
+--output-path table_export 
+
+qiime tools export \
+--input-path ../project_2/rooted-tree.qza \
+--output-path rooted_tree_export 
+
+qiime tools export \
+--input-path ../project_2/taxonomy.qza \
+--output-path taxonomy_export 
+
