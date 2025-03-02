@@ -1,0 +1,29 @@
+# Indicator Species Analysis
+
+March 2, 2025 - Shreya
+
+## Purpose
+The purpose of this session is to perform indicator species analysis based on the 
+
+## Material
+1. R studio
+2. Phyloseq object from P09
+
+1. Create a new grouping variable combining cancer stage and age group in the gc genus
+2. Run ISA by forming clusters based on the Stage_Age variable
+3. Filter based on signifigant p-vales
+
+2. Filter out features with <5 reads from the table-no-mitochondria-no-chloroplast.qza file.
+3. Generate a new alpha rarefaction curve using the feature-frequency-filtered-table.qza.
+4. Calculate alpha- and beta-diversity metrics and input all files into a new directory called "core-metrics-results-12000"
+
+## Code
+
+## Output Files
+
+## Results
+
+## Discussion
+
+## Future Directions
+- begin PICRUSt2 analysis 
