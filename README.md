@@ -16,6 +16,7 @@ RECAP:
 - created gc_export to export all required files onto local computer to make phyloseq object (taxonomy.tsv, tree.nwk, feature-table.txt)
 - made phyloseq object for use in downstream analyses
 - performed Indicator Taxa Analysis
+- performed Picrust 
 
 AGENDA:
 - go over the feedback provided by Evelyn for the team proposal
@@ -25,6 +26,7 @@ AGENDA:
     - suggested that it may be a good idea to do both alpha and beta for both objectives 1 and 2
 - show the results from Indicator Taxa Analysis
     - make sure our method and understanding of the analysis is correct
+-Picrust how to filter/analysis
  
 Notes during meeting:
 
