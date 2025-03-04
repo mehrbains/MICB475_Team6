@@ -19,6 +19,10 @@ RECAP:
 
 AGENDA:
 - go over the feedback provided by Evelyn for the team proposal
+  - Suggestions for the approach section
+    - do not require taxonomic barplot of strains between different age groups
+    - recommended that we perform core microbiome analysis in addition to Indicator Taxa Analysis
+    - suggested that it may be a good idea to do both alpha and beta for both objectives 1 and 2
 - show the results from Indicator Taxa Analysis
     - make sure our method and understanding of the analysis is correct
  
