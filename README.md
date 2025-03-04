@@ -15,11 +15,11 @@ RECAP:
 - filtered out <5 reads from the table-no-mitochondria-no-chloroplast file
 - created gc_export to export all required files onto local computer to make phyloseq object (taxonomy.tsv, tree.nwk, feature-table.txt)
 - made phyloseq object for use in downstream analyses
-- performed Identity Taxa Analysis
+- performed Indicator Taxa Analysis
 
 AGENDA:
 - go over the feedback provided by Evelyn for the team proposal
-- show the results of the Identity Taxa Analysis
+- show the results from Indicator Taxa Analysis
     - make sure our method and understanding of the analysis is correct
  
 Notes during meeting:
