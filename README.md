@@ -1,5 +1,29 @@
 # MICB475: Team 6
 
+## Team Meeting 5
+__March 4, 2025__
+
+### Research Question: How does the composition and function of the gastric mucosal microbiome vary with age across different stages of gastric cancer?
+
+### Experimental Aims
+- Aim 1: Analyze the relationship between age and alpha diversity of the gastric mucosal microbiome for different stages of gastric cancer
+- Aim 2: Identify if age has a significant effect on the beta diversity of the gastric mucosal microbiome at different stages of gastric cancer
+- Aim 3: Identify microbial taxa that are strongly associated with distinct stages of gastric cancer across age cohorts (indicator species analysis)
+- Aim 4: Investigate the impact of age on gastric mucosal metabolic function within each stage of gastric cancer
+
+RECAP:
+- filtered out <5 reads from the table-no-mitochondria-no-chloroplast file
+- created gc_export to export all required files onto local computer to make phyloseq object (taxonomy.tsv, tree.nwk, feature-table.txt)
+- made phyloseq object for use in downstream analyses
+- performed Identity Taxa Analysis
+
+AGENDA:
+- go over the feedback provided by Evelyn for the team proposal
+- show the results of the Identity Taxa Analysis
+    - make sure our method and understanding of the analysis is correct
+ 
+Notes during meeting:
+
 ## Team Meeting 4
 __February 25, 2025__
 
