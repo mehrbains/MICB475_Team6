@@ -1,5 +1,21 @@
 # MICB475: Team 6
 
+## Team Meeting 6
+__March 11, 2025__
+
+RECAP:
+- Aim 1
+- Aim 2:
+  - Generated PCoA plots (5) for beta diversity
+- Aim 3:
+  - Did core microbiome analysis
+- Aim 4 
+
+AGENDA:
+- Two categories (intestinal metaplasia and intraepithelial neoplasia) do not have any samples in the young adult age category
+
+MEETING NOTES: 
+
 ## Team Meeting 5
 __March 4, 2025__
 
@@ -26,9 +42,16 @@ AGENDA:
     - suggested that it may be a good idea to do both alpha and beta for both objectives 1 and 2
 - show the results from Indicator Taxa Analysis
     - make sure our method and understanding of the analysis is correct
--Picrust how to filter/analysis
+- Picrust how to filter/analysis
  
 Notes during meeting:
+- Notes on proposal feedback discussion:
+  - Edit intro/background to reflect that we're basing our proposal on the fact that the original paper already explored microbiome differences across cancer stages, and we are tying age into this
+  - Could mention other cancer types that also show differences across age groups in introduction
+  - For research objectives, rephrase part about 'promotes a more aggressive progression of cancer' because we can't conclude causation; we could say based on our functional analysis that up or downregulation of certain pathways we find might be promoting cancer
+  - For aim 1, add a sentence explaining how answering the aim will address the larger research question (why would testing age and diversity answer the overall research question?)
+  - Skip making taxonomic barplots
+  - Will clarify what was meant by doing alpha and beta diversity for both aims 1 and 2 later on
 
 ## Team Meeting 4
 __February 25, 2025__
