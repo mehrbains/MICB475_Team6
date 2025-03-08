@@ -3,12 +3,20 @@
 ## Team Meeting 6
 __March 11, 2025__
 
+### Research Question: How does the composition and function of the gastric mucosal microbiome vary with age across different stages of gastric cancer?
+
+### Experimental Aims
+- Aim 1: Analyze the relationship between age and alpha diversity of the gastric mucosal microbiome for different stages of gastric cancer
+- Aim 2: Identify if age has a significant effect on the beta diversity of the gastric mucosal microbiome at different stages of gastric cancer
+- Aim 3: Identify microbial taxa that are strongly associated with distinct stages of gastric cancer across age cohorts (indicator species analysis)
+- Aim 4: Investigate the impact of age on gastric mucosal metabolic function within each stage of gastric cancer
+  
 RECAP:
 - Aim 1
 - Aim 2:
   - Generated PCoA plots (5) for beta diversity
 - Aim 3:
-  - Did core microbiome analysis
+  - Did core microbiome analysis (5 venn diagrams for each stage of cancer + healthy group)
 - Aim 4 
 
 AGENDA:
