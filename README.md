@@ -15,6 +15,12 @@ RECAP:
 - Aim 1
 - Aim 2:
   - Generated PCoA plots (5) for beta diversity
+    - [plot_pcoa_healthy.png](/Rscripts/visuals/plot_pcoa_healthy.png)
+    - [plot_pcoa_im.png](/Rscripts/visuals/plot_pcoa_im.png)
+    - [plot_pcoa_in.png](/Rscripts/visuals/plot_pcoa_in.png)
+    - [plot_pcoa_gc.png](/Rscripts/visuals/plot_pcoa_gc.png)
+    - [plot_pcoa_cg.png](/Rscripts/visuals/plot_pcoa_cg.png)
+  - Performed permanova test
 - Aim 3:
   - Did core microbiome analysis (5 venn diagrams for each stage of cancer + healthy group)
     - [gc_healthy_venn.png](/Rscripts/Aim3/gc_healthy_venn.png)
@@ -23,9 +29,11 @@ RECAP:
     - [gc_gastric_venn.png](/Rscripts/Aim3/gc_gastric_venn.png)
     - [gc_chronic_venn.png](/Rscripts/Aim3/gc_chronic_venn.png)
 - Aim 4 
-- a few categories show no signficant pathways
+  - a few categories show no signficant pathways
+- Submitted revised proposal
 AGENDA:
 - Two categories (intestinal metaplasia and intraepithelial neoplasia) do not have any samples in the young adult age category
+- Analyzing beta-diversity and permanova results
 
 MEETING NOTES: 
 
