@@ -17,6 +17,11 @@ RECAP:
   - Generated PCoA plots (5) for beta diversity
 - Aim 3:
   - Did core microbiome analysis (5 venn diagrams for each stage of cancer + healthy group)
+    - [gc_healthy_venn.png](/Rscripts/Aim3/gc_healthy_venn.png)
+    - [gc_IN_venn.png](/Rscripts/Aim3/gc_IN_venn.png)
+    - [gc_IM_venn.png](/Rscripts/Aim3/gc_IM_venn.png)
+    - [gc_gastric_venn.png](/Rscripts/Aim3/gc_gastric_venn.png)
+    - [gc_chronic_venn.png](/Rscripts/Aim3/gc_chronic_venn.png)
 - Aim 4 
 
 AGENDA:
