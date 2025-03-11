@@ -23,7 +23,7 @@ RECAP:
     - [gc_gastric_venn.png](/Rscripts/Aim3/gc_gastric_venn.png)
     - [gc_chronic_venn.png](/Rscripts/Aim3/gc_chronic_venn.png)
 - Aim 4 
-
+- a few categories show no signficant pathways
 AGENDA:
 - Two categories (intestinal metaplasia and intraepithelial neoplasia) do not have any samples in the young adult age category
 
