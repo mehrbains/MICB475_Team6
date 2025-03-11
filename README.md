@@ -22,7 +22,7 @@ RECAP:
     - [plot_pcoa_cg.png](/Rscripts/visuals/plot_pcoa_cg.png)
   - Performed permanova test
 - Aim 3:
-  - Did core microbiome analysis (5 venn diagrams for each stage of cancer + healthy group)
+  - Did core microbiome analysis (5 venn diagrams for each stage of cancer + healthy group) with detection = 0 and prevalence = 0.7
     - [gc_healthy_venn.png](/Rscripts/Aim3/gc_healthy_venn.png)
     - [gc_IN_venn.png](/Rscripts/Aim3/gc_IN_venn.png)
     - [gc_IM_venn.png](/Rscripts/Aim3/gc_IM_venn.png)
