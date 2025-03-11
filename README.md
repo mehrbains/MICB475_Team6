@@ -37,6 +37,12 @@ AGENDA:
 - Analyzing beta-diversity and permanova results
 
 MEETING NOTES: 
+- For permanova results:
+  - Likely will split them into multiple plots for easier interpretation
+  - Interpreting the results for 'model'; will get back to this later
+- Input for alpha diversity: if metadata file is used, go back to original so that age is a continuous variable
+- Oral presentations are on Apr 1 and 3; we have ~ 2 weeks before handing over the project to another team
+
 
 ## Team Meeting 5
 __March 4, 2025__
