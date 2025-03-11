@@ -31,6 +31,7 @@ RECAP:
 - Aim 4 
   - a few categories show no signficant pathways
 - Submitted revised proposal
+
 AGENDA:
 - Two categories (intestinal metaplasia and intraepithelial neoplasia) do not have any samples in the young adult age category
 - Analyzing beta-diversity and permanova results
