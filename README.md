@@ -59,7 +59,9 @@ NOTES DURING MEETING:
 
 - Put figures on slides for next team meetings, so we can share figures with Dr. Sun on screen in meeting room
 - Aim to finish analysis by next week
-- Oral presentation rubric will be available soon, will share slides with other group by March 30 
+- Oral presentation rubric will be available soon, will share slides with other group by March 30
+- Find papers we can cite for age differences in different cancer types 
+- Ritu will look at PERMANOVA and get back to us
 
 ## Team Meeting 6
 __March 11, 2025__
