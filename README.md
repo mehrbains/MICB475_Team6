@@ -57,6 +57,10 @@ Prevalence = 0.8
 
 NOTES DURING MEETING:
 
+- Put figures on slides for next team meetings, so we can share figures with Dr. Sun on screen in meeting room
+- Aim to finish analysis by next week
+- Oral presentation rubric will be available soon, will share slides with other group by March 30 
+
 ## Team Meeting 6
 __March 11, 2025__
 
