@@ -1,5 +1,62 @@
 # MICB475: Team 6
 
+## Team Meeting 7 
+__March 18, 2025__
+
+### Research Question: How does the composition and function of the gastric mucosal microbiome vary with age across different stages of gastric cancer?
+
+### Experimental Aims
+- Aim 1: Analyze the relationship between age and alpha diversity of the gastric mucosal microbiome for different stages of gastric cancer
+- Aim 2: Identify if age has a significant effect on the beta diversity of the gastric mucosal microbiome at different stages of gastric cancer
+- Aim 3: Identify microbial taxa that are strongly associated with distinct stages of gastric cancer across age cohorts (indicator species analysis)
+- Aim 4: Investigate the impact of age on gastric mucosal metabolic function within each stage of gastric cancer
+
+RECAP:
+
+AIM 3: Core Microbiome Analysis
+
+_Healthy Core Microbiome_
+
+Prevalence = 0.7
+> <img src="/Rscripts/Aim3/gc_healthy_venn.png" height="400"> 
+
+Prevalence = 0.8
+> <img src="/Rscripts/Aim3/gc_healthy_venn0.8.png" height="400"> 
+
+_Intraepithelial neoplasia - there is no "Young Adult" category_
+
+Prevalence = 0.7
+> <img src="/Rscripts/Aim3/gc_IN_venn.png" height="400"> 
+
+Prevalence = 0.8
+> <img src="/Rscripts/Aim3/gc_IN_venn0.8.png" height="400"> 
+
+_Intestinal metaplasia - there is no "Young Adult" category_
+
+Prevalence = 0.7
+> <img src="/Rscripts/Aim3/gc_IM_venn.png" height="400"> 
+
+Prevalence = 0.8
+> <img src="/Rscripts/Aim3/gc_IM_venn0.8.png" height="400"> 
+
+_Gastric Cancer_
+
+Prevalence = 0.7
+> <img src="/Rscripts/Aim3/gc_gastric_venn.png" height="400"> 
+
+Prevalence = 0.8
+> <img src="/Rscripts/Aim3/gc_gastric_venn0.8.png" height="400"> 
+
+_Chronic Gastric Cancer_
+
+Prevalence = 0.7
+> <img src="/Rscripts/Aim3/gc_chronic_venn.png" height="400"> 
+
+Prevalence = 0.8
+> <img src="/Rscripts/Aim3/gc_chronic_venn0.8.png" height="400"> 
+
+NOTES DURING MEETING:
+
 ## Team Meeting 6
 __March 11, 2025__
 
