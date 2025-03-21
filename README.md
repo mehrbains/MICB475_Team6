@@ -47,7 +47,7 @@ Prevalence = 0.7
 Prevalence = 0.8
 > <img src="/Rscripts/Aim3/gc_gastric_venn0.8.png" height="400"> 
 
-_Chronic Gastric Cancer_
+_Chronic Gastritis_
 
 Prevalence = 0.7
 > <img src="/Rscripts/Aim3/gc_chronic_venn.png" height="400"> 
