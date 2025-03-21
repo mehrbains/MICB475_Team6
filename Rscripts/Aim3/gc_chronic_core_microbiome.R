@@ -1,4 +1,4 @@
-#### Gastric Cancer ####
+#### Chronic gastritis ####
 
 #!/usr/bin/env Rscript
 library(tidyverse)
