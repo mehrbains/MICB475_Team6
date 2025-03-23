@@ -1,0 +1,37 @@
+# Linear Mixed Effects Regression Analysis
+
+Mar. 22, 2025 - Lily
+
+## Purpose
+The purpose of this session is to run the linear mixed effects regression analysis.
+
+## Material
+1. R studio
+2. gc_rare.RData (phyloseq object generated during P09)
+3. LME_code.R (emailed by Ritu)
+
+## Methods
+
+1. Open the LME_code.R project emailed by Ritu in R Studio.
+2. Run the code and plot the regression lines for each cancer stage.
+3. Save the plot as .png files locally and upload to Github.
+4. Run Spearman's correlation analysis for each cancer stage separately.
+
+## Code
+[R Script for Linear Mixed Effects Regression Analysis](/Rscripts/LMEScript.R)
+
+## Output Files
+1. PD_across_age_for_different_cancer_stages.png
+2. Spearman's_correlation.png
+
+Note: All files listed above can be found [here](/Rscripts/visuals).
+
+## Results
+> <img src="/Rscripts/visuals/PD_across_age_for_different_cancer_stages.png" height="200"> 
+> <img src="/Rscripts/visuals/Spearman's_correlation.png" height="200">
+
+## Discussion
+- All p-values for Spearman's correlation are >0.05, so the correlation results reflected are insignificant.
+
+## Future Directions
+- Completed data analysis!!
