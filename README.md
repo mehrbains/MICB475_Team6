@@ -24,6 +24,67 @@ AGENDA:
 Please add an extra objective: correlate the age groups to different stages of cancer. It would be in a heatmap format and it would tell you whether there is a correlation or not between the two which may link your two variables better."
 - ask any questions about the class presentations
 
+MEETING NOTES:
+
+Aim 1:
+- Add ribbon on lines for linear-mixed effect regression analysis; the more narrow the ribbon, the better the best fit line
+- Ran Spearman’s and no significant correlation when keeping age as numeric (not binned into categories)
+
+Aim 2:
+- Variance is pretty low for PCoA plots
+- No significant difference for beta diversity 
+
+Aim 3:
+- ISA table: high number of indicator species; need to filter using cutoff of 0.8 (can include a few 0.7’s but not lower than that); probably not a lot of indicator species based on results for alpha and beta diversity 
+- Core microbiome analysis: young adults have a unique profile in healthy (mostly not shared); rest is all shared for other stages; interpret meaning of this?
+
+Aim 4:
+- DESeq: only GC stage had significantly different pathways; young is set as reference (for IM and IN, no young adult samples so used middle aged as reference); make bar graph to show specific taxa that are differentially abundant; last plot is young adult vs. elderly which was the only significant plot (also need bar graph here); keep cutoffs as -2 and 2 for plots
+- Only seeing differences at last stage of cancer
+
+Overall:
+- Young adults do seem to have functional differences but not really taxonomic differences
+- No age effect in early stages of cancer, but significant difference between young and elderly in terms of functionality at last stage of cancer 
+- Biological rationale: younger people have more unique microbes usually and then they lose it in cancer context?
+- No big diversity differences
+- Small taxonomic differences that drive functional differences
+- Literature review: pathways to see if they’re associated with worse or better outcomes or are neutral
+- Maybe losing commensals and enriching pathogens?
+- Maybe worse complications for younger people with gastric cancer compared to elderly?
+- Young people are clearly losing their profile with cancer context
+- Literature review: do younger people tend to have worse GC outcomes? 
+
+Figure 1: alpha and beta diversity 
+- A) Faith’s PD linear mixed-effect regression, include ribbons and stats in figure legend
+- B) Weighted Unifrac w/o ellipses PCoA graph, include p value in legend
+
+Table 1:
+- Maybe ISA table, filter and see if there are any indicators (if there are ~ decent [species], summarize species)
+
+Figure 2: Core microbiome analysis
+- A-E) keep 0.8 prevalence, all 5 graphs; explain young adult samples missing from IM and IN categories
+
+Figure 3: DESeq
+- A) Bar plot, just young vs. elderly
+- no volcano plot
+
+Figure 4: Functional analysis
+- A) Bar plot, just young vs. elderly
+- B) Volcano plot
+
+Supplemental:
+- Maybe ISA table
+
+Presentation:
+- Specific slide titles
+- Ex. Young adults experience functional changes (if pathways turn out to be mostly neutral) 
+
+Figures:
+- Nicely formatted figures for feedback for next meeting 
+- Can send slide deck to Ritu for feedback later this week
+- Next week is last meeting
+
+
 ## Team Meeting 7 
 __March 18, 2025__
 
