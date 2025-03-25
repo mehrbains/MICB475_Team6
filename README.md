@@ -20,6 +20,8 @@ AGENDA:
 - interpret and discuss what the results mean
   - how to present the results in the RESULTS section of the manuscript
     - ex. do we combine indicator species analysis and core microbiome analysis results?
+- ask how to create a heatmap for the suggestion: "This one is a bit more related to your proposal.
+Please add an extra objective: correlate the age groups to different stages of cancer. It would be in a heatmap format and it would tell you whether there is a correlation or not between the two which may link your two variables better."
 - ask any questions about the class presentations
 
 ## Team Meeting 7 
