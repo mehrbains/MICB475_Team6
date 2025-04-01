@@ -21,6 +21,18 @@ AGENDA:
 
 MEETING NOTES: 
 
+- ISA
+  - 2 species came up for 0.7 and 0.8 thresholds; 1 for middle-aged (intestinal neoplasia) and 1 for elderly (gastric cancer)
+  - Supplemental table 1: 2 rows, acknowledge limitations in discussion, include p-value too
+- Manuscript
+  - Figure captions in past tense
+  - All findings in past tense, unless presenting the findings then use present tense
+  - Fig 3 is DESeq (relative abundance); omit and go straight to Fig 4
+  - Fig 4 (now Fig 3) is functional analysis (relative increase/decrease of pathways)
+  - Total: 3 figures, 1 supplemental table
+  - Use CHECKLIST for manuscript
+- Survey incoming this week
+
 
 ## Team Meeting 8
 __March 25, 2025__
