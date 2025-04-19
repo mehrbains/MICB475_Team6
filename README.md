@@ -11,7 +11,7 @@ __April 1, 2025__
 - Aim 3: Identify microbial taxa that are strongly associated with distinct stages of gastric cancer across age cohorts
 - Aim 4: Investigate the impact of age on gastric mucosal metabolic function within each stage of gastric cancer
 
-RECAP
+RECAP:
 - prepared slide deck for presentations
 - presenting for team 5
 
@@ -174,7 +174,7 @@ Prevalence = 0.7
 Prevalence = 0.8
 > <img src="/Rscripts/Aim3/gc_chronic_venn0.8.png" height="400"> 
 
-NOTES DURING MEETING:
+MEETING NOTES:
 
 - Put figures on slides for next team meetings, so we can share figures with Dr. Sun on screen in meeting room
 - Aim to finish analysis by next week
@@ -254,7 +254,7 @@ AGENDA:
     - make sure our method and understanding of the analysis is correct
 - Picrust how to filter/analysis
  
-Notes during meeting:
+MEETING NOTES:
 - Notes on proposal feedback discussion:
   - Edit intro/background to reflect that we're basing our proposal on the fact that the original paper already explored microbiome differences across cancer stages, and we are tying age into this
   - Could mention other cancer types that also show differences across age groups in introduction
@@ -286,8 +286,7 @@ AGENDA:
     3) Identify microbial taxa that are strongly associated with distinct stages of gastric cancer across age cohorts (indicator species analysis)
     4) Investigate the impact of age on gastric mucosal metabolic function within each stage of gastric cancer
 
-Notes during meeting:
-
+MEETING NOTES:
 - Alpha rarefaction curve: sampling depth of 12,000 makes sense to preserve a good number of samples
 - Aim 1: Linear mixed effects regression
   - Example: Plot different values of metric, to see how alpha diversity changes across different stages of cancer
@@ -312,7 +311,7 @@ Notes during meeting:
 ## Team Meeting 3
 __February 17, 2025__
 
-RECAP of what has been done since last meeting:
+RECAP:
 - Finished denoising the gastric cancer data set
 - decided on research question: "How do variations in blood glucose, cholesterol, and triglycerides influence microbiome composition at different stages of cancer?"
 - started working on the team proposal
@@ -324,12 +323,15 @@ AGENDA:
   - Is there a diversity metric that is best suited and required to answer our research question?
   - One of the example team proposals mentioned a "maximum read length chosen" but it was a different number than what they truncated all their reads to be. What exactly is meant by "maximum read length chosen"?
 
-NOTES DURING MEETING:
+MEETING NOTES:
+- Research objective is more of a general purpose of the study, along with research Q
+- Experimental aims is the specific workflow to answer the research Q and our rationale/hypothesis behind them
+
 
 ## Team Meeting 2
 __February 11, 2025__
 
-Recap of what has been done since last meeting:
+RECAP:
 - decided on Gastric Cancer dataset
 - decided to focus on biochemical metrics ex. blood glucose, triglycerides, total cholesterol
 - finished demultiplexing the Gastric Cancer dataset
@@ -354,12 +356,14 @@ Total Cholesterol **
 
 ** Ranges may vary by age, ethnicity, and sex assigned at birth
 
-Meeting Agenda:
+AGENDA:
 - Discuss with Ritu what trimming parameters we should choose based on our demultiplexing results since they are varying lengths
 > <img src="/QIIME2/visuals/demultiplexed_seqs_length_summary.png" height="200">
 - Show her the ranges of the biochemical metrics that we plan to use as cateogries
 - Create a clear and concise research question based on our dataset and specified variables
 - Discuss the Team Proposal (ask any questions to clarify about the assignment)
+
+MEETING NOTES:
 
 Trimming length: 250-300 nts
 - Try with the shortest read length, see if there are any issues (e.g. losing many sequences)
@@ -457,7 +461,7 @@ AGENDA:
 - Discuss some of the datasets from the class inventory that have unused variables
 - Choose a dataset and research question by the end of the session
 
-NEXT:
+MEETING NOTES:
 
 - Next week:
   - Make new metadata categories for biochemical variables
