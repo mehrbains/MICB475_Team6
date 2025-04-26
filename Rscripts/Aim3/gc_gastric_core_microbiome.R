@@ -62,7 +62,7 @@ young_gastric <- subset_samples(gastric, `Age_Category`== "Young Adult")
 middle_gastric<- subset_samples(gastric, `Age_Category`=="Middle Age")
 elderly_gastric <- subset_samples(gastric, `Age_Category`=="Elderly")
 
-# Determine ASVs are found in more than 70% of samples in each age group
+# Determine ASVs are found in more than 80% of samples in each age group
 young_gastric_ASVs <- core_members(young_gastric, detection=0, prevalence = 0.8)
 middle_gastric_ASVs <- core_members(middle_gastric, detection=0, prevalence = 0.8)
 elderly_gastric_ASVs <- core_members(elderly_gastric, detection=0, prevalence = 0.8)
