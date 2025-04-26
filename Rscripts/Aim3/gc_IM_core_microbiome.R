@@ -61,7 +61,7 @@ IM_sample_data <- sample_data(IM)
 middle_IM<- subset_samples(IM, `Age_Category`=="Middle Age")
 elderly_IM <- subset_samples(IM, `Age_Category`=="Elderly")
 
-# Determine ASVs are found in more than 70% of samples in each age group
+# Determine ASVs are found in more than 80% of samples in each age group
 middle_IM_ASVs <- core_members(middle_IM, detection=0, prevalence = 0.8)
 elderly_IM_ASVs <- core_members(elderly_IM, detection=0, prevalence = 0.8)
 
