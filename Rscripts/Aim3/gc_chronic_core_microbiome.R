@@ -78,4 +78,4 @@ gc_chronic_list <- list("Young Adult" = young_chronic_ASVs, "Middle Age" = middl
 
 # Create a Venn diagram using all the ASVs shared and unique to antibiotic users and non users
 gc_chronic_venn <- ggVennDiagram(x = gc_chronic_list)
-ggsave("gc_chronic_venn.png", gc_chronic_venn0.8)
+ggsave("gc_chronic_venn0.8.png", gc_chronic_venn)
