@@ -62,7 +62,7 @@ young_chronic <- subset_samples(chronic, `Age_Category`== "Young Adult")
 middle_chronic<- subset_samples(chronic, `Age_Category`=="Middle Age")
 elderly_chronic <- subset_samples(chronic, `Age_Category`=="Elderly")
 
-# Determine ASVs are found in more than 70% of samples in each age group
+# Determine ASVs are found in more than 80% of samples in each age group
 young_chronic_ASVs <- core_members(young_chronic, detection=0, prevalence = 0.8)
 middle_chronic_ASVs <- core_members(middle_chronic, detection=0, prevalence = 0.8)
 elderly_chronic_ASVs <- core_members(elderly_chronic, detection=0, prevalence = 0.8)
