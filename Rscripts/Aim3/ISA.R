@@ -4,7 +4,6 @@ library(ape)
 library(tidyverse)
 library(vegan)
 library(indicspecies)
-library(writexl)
 
 # Loading in data
 metafp <- "updated_v2_gastric_cancer_metadata.tsv"
