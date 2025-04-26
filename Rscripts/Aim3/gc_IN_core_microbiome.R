@@ -76,4 +76,4 @@ gc_IN_list <- list("Middle Age" = middle_IN_ASVs, "Elderly" = elderly_IN_ASVs)
 
 # Create a Venn diagram using all the ASVs shared and unique to antibiotic users and non users
 gc_IN_venn <- ggVennDiagram(x = gc_IN_list) + coord_flip()
-ggsave("gc_IN_venn.png", gc_IN_venn0.8)
+ggsave("gc_IN_venn0.8.png", gc_IN_venn)
