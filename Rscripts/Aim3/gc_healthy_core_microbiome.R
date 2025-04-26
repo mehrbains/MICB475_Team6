@@ -60,7 +60,7 @@ healthy_young <- subset_samples(healthy, `Age_Category`=="Young Adult")
 healthy_middle <- subset_samples(healthy, `Age_Category`=="Middle Age")
 healthy_elderly <- subset_samples(healthy, `Age_Category`=="Elderly")
 
-# Determine ASVs are found in more than 70% of samples in each age category
+# Determine ASVs are found in more than 80% of samples in each age category
 young_healthy_ASVs <- core_members(healthy_young, detection=0, prevalence = 0.8)
 middle_healthy_ASVs <- core_members(healthy_middle, detection=0, prevalence = 0.8)
 elderly_healthy_ASVs <- core_members(healthy_elderly, detection=0, prevalence = 0.8)
