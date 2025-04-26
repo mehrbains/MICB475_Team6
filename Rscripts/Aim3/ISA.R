@@ -78,14 +78,6 @@ gc_filt_nolow <- filter_taxa(gc_filt, function(x) sum(x)>5, prune = TRUE)
 # Remove samples with less than 100 reads
 gc_final <- prune_samples(sample_sums(gc_filt_nolow)>100, gc_filt_nolow)
 
-# Rarefy samples
-# rngseed sets a random number. If you want to reproduce this exact analysis, you need
-# to set rngseed the same number each time
-# t transposes the table to use rarecurve function
-# cex decreases font size
-#rarecurve(t(as.data.frame(otu_table(gc_final))), cex=0.1)
-#gc_rare <- rarefy_even_depth(gc_final, rngseed = 1, sample.size = 12000)
-
 gc_genus <- tax_glom(gc_final, "Genus", NArm = FALSE)
 gc_genus_RA <- transform_sample_counts(gc_genus, fun=function(x) x/sum(x))
 
