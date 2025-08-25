@@ -1,5 +1,6 @@
 # MICB475: Team 6
-## 2024W Term 2
+### 2024W Term 2
+### Team: Mehr Bains, Lily Chen, Manveer Dhillon, Shreya Gandhi, Tricia Santiago
 
 ### Research Question: How does the composition and function of the gastric mucosal microbiome vary with age across different stages of gastric cancer?
 
